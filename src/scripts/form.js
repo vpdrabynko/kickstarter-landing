@@ -3,7 +3,7 @@
 const form = document.querySelector('.get-in-touch__form');
 const input = document.querySelector('.get-in-touch__input-email');
 const button = document.querySelector('.get-in-touch__button');
-const message = document.querySelector('.get-in-touch__input-message')
+const message = document.querySelector('.get-in-touch__input-message');
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
@@ -14,7 +14,7 @@ form.addEventListener('submit', function(event) {
 input.addEventListener('change', function() {
   const inputValue = input.value;
 
-  if (!isValidEmail(inputValue)) {
+  if (!inputValue.checkValidity()) {
     input.style.border = '1px solid #eb5757';
   } else {
     input.style.border = '1px solid #0c797a';
