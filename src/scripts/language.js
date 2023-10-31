@@ -78,7 +78,7 @@ const translations = {
     automusik: 'Auto Music from Last Song Stopped',
     doyouhave: 'do you have any questions?',
     send: 'send',
-    allright: '© 2019 All rights reserved. Terms of Use & Privacy Policy',
+    allright: '© 2023 All rights reserved. Terms of Use & Privacy Policy',
   },
   ua: {
     buy: 'купити',
@@ -149,7 +149,7 @@ const translations = {
     automusik: 'Автоматична зупинка музики з останньої пісні',
     doyouhave: 'у вас є які-небудь питання?',
     send: 'відправити',
-    allright: '© 2019 Усі права захищено. Умови використання та '
+    allright: '© 2023 Усі права захищено. Умови використання та '
     + 'політика конфіденційності',
   },
 };

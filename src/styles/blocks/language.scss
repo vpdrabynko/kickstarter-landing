@@ -12,6 +12,10 @@
     text-transform: uppercase;
     text-decoration: none;
     cursor: pointer;
+
+    &:hover {
+      color: #0a020e;
+    }
   }
 
   &--menu {
@@ -44,6 +48,10 @@
     background-color: #f9f9f9;
     transition: all 0.3s;
     cursor: pointer;
+
+    &:hover {
+      color: #0a020e;
+    }
   }
 
   &__ukrainian {
@@ -58,5 +66,9 @@
     background-color: #f9f9f9;
     transition: all 0.3s;
     cursor: pointer;
+
+    &:hover {
+      color: #0a020e;
+    }
   }
 }
