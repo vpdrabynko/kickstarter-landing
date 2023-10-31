@@ -10,7 +10,7 @@ Landing page for [CrazyBaby](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/K
 - Sass (SCSS)
 - BEM
 - JavaScript
-- AOS
+- AOS library
 
 # Features overview
 
